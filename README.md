@@ -1,15 +1,15 @@
 ## Welcome! 👋
-(./preview.png)
+![React Dashboard](./preview.png)
 
-- used tools:-
--  React
--  Vite
--  JavaScript
--  Material UI
--  Picking a Router
--  React Hook Form
--  fullcalender
--  nivo => Bar/Pie/Line Chart
+# used tools:-
+       -  React
+       -  Vite
+       -  JavaScript
+       -  Material UI
+       -  Picking a Router
+       -  React Hook Form
+       -  fullcalender
+       -  nivo => Bar/Pie/Line Chart
 
 
 # React + Vite
